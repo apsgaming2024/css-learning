@@ -32,11 +32,54 @@ HEADER{
     font-family:COMIC Sans MS  ;
     font-size: 28PX;
 }
-#four{
-    ext-align: left;
+#FOUR{
+    text-align: left;
     text-decoration:  rgb(25, 0, 255) underline;
     color:rgb(0, 153, 255);
     FONT-WEIGHT:BOLD;
     font-family:  COMIC Sans MS;
     font-size: 48PX;
+}
+
+.five{
+    text-align: left;
+    text-decoration:  none;
+    color:rgb(255, 94, 0);
+    FONT-WEIGHT:LIGHTER;
+    font-family:  COMIC Sans MS;
+    font-size: 28PX;
+}
+
+.six{
+    text-align: right;
+    text-decoration:  none;
+    color:rgb(227, 252, 0);
+    FONT-WEIGHT:lighter;
+    font-family:  COMIC Sans MS;
+    font-size: 28PX;
+}
+#seven{
+    background-color: black;
+    border-radius: 40px;
+    border-style: double;
+    border-color: rgb(255, 255, 255) ;
+    border-width: 30px;
+}
+#eight{
+    background-color: rgb(0, 0, 0);
+    border-width: 30px;
+    border-style: double;
+    border-color: rgb(100, 198, 255);
+    border-radius:40px;
+}
+body{
+    background-color: aqua;
+}
+
+#aditya{
+    background-color: black;
+    border-width: 30px;
+    border-style: double;
+    border-color: whitesmoke;
+    border-radius:40px ;
 }
