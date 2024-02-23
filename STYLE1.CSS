@@ -1,0 +1,60 @@
+HEADER{
+    text-align: center;
+    text-decoration: double green underline;
+    color:greenyellow;
+    FONT-WEIGHT:BOLD;
+    font-family: BOOKMAN OLD STYLE;
+    font-size: 70PX;
+    }
+
+
+
+BODY{
+    background-color: rgb(3, 226, 241);
+}
+
+
+
+#ONE{
+    font-weight: bold;
+    text-align: left;
+    color: rgb(240, 162, 17);
+    FONT-FAMILY:"LUCIDA SANS";
+    text-decoration:underline rgb(247, 94, 5);
+    font-size: 48PX;
+}
+#TWO{font-weight: bold;
+    text-align: left;
+    color: rgb(0, 102, 255);
+    FONT-FAMILY:"LUCIDA SANS";
+    text-decoration:underline rgb(47, 1, 255);
+    font-size: 38PX;
+}
+
+#THREE{
+    font-weight:normal;
+    text-align: left;
+    color: rgb(255, 255, 255);
+    FONT-FAMILY:"TECHNICAL";
+    text-decoration: none;
+    font-size: 28PX;
+}
+
+#FOUR{
+    font-weight: bold;
+        text-align: left;
+        color: rgb(0, 102, 255);
+        FONT-FAMILY:"LUCIDA SANS";
+        text-decoration:underline rgb(47, 1, 255);
+        font-size: 38PX;
+    
+}
+
+#FIVE{
+    font-weight:normal;
+    text-align: left;
+    color: rgb(255, 255, 255);
+    FONT-FAMILY:"TECHNICAL";
+    text-decoration: none;
+    font-size: 28PX;
+}
