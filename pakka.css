@@ -1,0 +1,91 @@
+HEADER{
+    
+    text-align: center;
+    text-decoration: double rgb(23, 95, 35) underline;
+    color:rgb(103, 187, 77);
+    FONT-WEIGHT:BOLDER;
+    font-family: COMIC Sans MS;
+    font-size: 70PX;
+    background-color:rgb(123, 255, 0);
+    border-width: 30px;
+    border-style: double;
+    border-color: rgb(0, 0, 0);
+    border-radius:40px;
+}
+
+#THREE{
+    text-align: left;
+    text-decoration:  rgb(255, 123, 0) underline;
+    color:rgb(160, 172, 3);
+    FONT-WEIGHT:BOLD;
+    font-family:  COMIC Sans MS;
+    font-size: 48PX;
+}
+#TWO{
+    background-color:rgb(123, 255, 0);
+    border-radius: 40px;
+    border-style: double;
+    border-color: rgb(0, 0, 0) ;
+    border-width: 30px;
+}
+
+.FOUR{
+    text-align: LEFT;
+    text-decoration: NONE;
+    color:rgb(0, 162, 255);
+    FONT-WEIGHT:LIGHTER;
+    font-family: COMIC Sans MS;
+    font-size: 28PX;
+}
+.FIVE{
+    text-align: right;
+    text-decoration:  none;
+    color:rgb(0, 26, 255);
+    FONT-WEIGHT:LIGHTER;
+    font-family:COMIC Sans MS  ;
+    font-size: 28PX;
+}
+
+#SIX{
+    background-color: rgb(123, 255, 0);
+    border-width: 30px;
+    border-style: double;
+    border-color: rgb(0, 0, 0);
+    border-radius:40px ;
+}
+#SEVEN{
+    text-align: left;
+    text-decoration:   rgb(255, 123, 0) underline;
+    color:rgb(160, 172, 3);
+    FONT-WEIGHT:BOLD;
+    font-family:  COMIC Sans MS;
+    font-size: 48PX;
+}
+.eight{
+    text-align: left;
+    text-decoration:  none;
+    color:rgb(255, 13, 223);
+    FONT-WEIGHT:LIGHTER;
+    font-family:  COMIC Sans MS;
+    font-size: 28PX;
+}
+
+.NINE{
+    text-align: right;
+    text-decoration:  none;
+    color:rgb(140, 0, 255);
+    FONT-WEIGHT:lighter;
+    font-family:  COMIC Sans MS;
+    font-size: 28PX;
+}
+
+#ONE{
+    background-color: rgb(0, 0, 0);
+    border-width: 30px;
+    border-style: double;
+    border-color: rgb(123, 255, 0);
+    border-radius:40px;
+}
+BODY{
+    background-color: lightgreen;
+}
