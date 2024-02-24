@@ -33,7 +33,7 @@ HEADER{
     text-align: LEFT;
     text-decoration: NONE;
     color:rgb(0, 162, 255);
-    FONT-WEIGHT:LIGHTER;
+    FONT-WEIGHT:bold;
     font-family: COMIC Sans MS;
     font-size: 28PX;
 }
@@ -41,7 +41,7 @@ HEADER{
     text-align: right;
     text-decoration:  none;
     color:rgb(0, 26, 255);
-    FONT-WEIGHT:LIGHTER;
+    FONT-WEIGHT:bold;
     font-family:COMIC Sans MS  ;
     font-size: 28PX;
 }
@@ -65,7 +65,7 @@ HEADER{
     text-align: left;
     text-decoration:  none;
     color:rgb(255, 13, 223);
-    FONT-WEIGHT:LIGHTER;
+    FONT-WEIGHT:bold;
     font-family:  COMIC Sans MS;
     font-size: 28PX;
 }
@@ -74,7 +74,7 @@ HEADER{
     text-align: right;
     text-decoration:  none;
     color:rgb(140, 0, 255);
-    FONT-WEIGHT:lighter;
+    FONT-WEIGHT:bold;
     font-family:  COMIC Sans MS;
     font-size: 28PX;
 }
