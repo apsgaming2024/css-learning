@@ -3,14 +3,19 @@ HEADER{
     text-decoration: double green underline;
     color:greenyellow;
     FONT-WEIGHT:BOLD;
-    font-family: BOOKMAN OLD STYLE;
+    font-family: comic sans ms;
     font-size: 70PX;
+    background-color:blue;
+    border-radius: 30px;
+    border-width: 25px;
+    border-color: rgb(255, 255, 255);
+    border-style: double;
     }
 
 
 
 BODY{
-    background-color: rgb(3, 226, 241);
+    background-color: rgb(84, 206, 255);
 }
 
 
@@ -19,42 +24,80 @@ BODY{
     font-weight: bold;
     text-align: left;
     color: rgb(240, 162, 17);
-    FONT-FAMILY:"LUCIDA SANS";
+    FONT-FAMILY:"comic sans ms";
     text-decoration:underline rgb(247, 94, 5);
     font-size: 48PX;
+    background-color:blue;
+    border-radius: 30px;
+    border-width: 25px;
+    border-color:blue;
+    border-style: solid;
+  
 }
 #TWO{font-weight: bold;
     text-align: left;
     color: rgb(0, 102, 255);
-    FONT-FAMILY:"LUCIDA SANS";
+    FONT-FAMILY:"comic sans ms";
     text-decoration:underline rgb(47, 1, 255);
     font-size: 38PX;
+    display:block;
+    background-color: black;
+    border-radius: 30px;
+    border-width: 25px;
+    border-style: double;
+    border-color: rgb(255, 255, 255);
+   
 }
 
 #THREE{
     font-weight:normal;
     text-align: left;
     color: rgb(255, 255, 255);
-    FONT-FAMILY:"TECHNICAL";
+    FONT-FAMILY:"comic sans ms";
     text-decoration: none;
     font-size: 28PX;
 }
 
 #FOUR{
-    font-weight: bold;
+        font-weight: bold;
         text-align: left;
         color: rgb(0, 102, 255);
-        FONT-FAMILY:"LUCIDA SANS";
+        FONT-FAMILY:"comic sans ms";
         text-decoration:underline rgb(47, 1, 255);
         font-size: 38PX;
+        background-color: black;
+        border-radius: 30px;
+        border-color: aliceblue;
+        border-style: double ;
+        border-width: 25px;
     
-}
+    }
 
 #FIVE{
-    font-weight:normal;
-    text-align: left;
-    color: rgb(255, 255, 255);
-    FONT-FAMILY:"TECHNICAL";
-    text-decoration: none;
-    font-size: 28PX;
-}
+     font-weight:normal;
+     text-align: left;
+     color: rgb(255, 255, 255);
+     FONT-FAMILY:"comic sans ms";
+     text-decoration: none;
+     font-size: 28PX;
+     line-height:50px ;
+    }
+ #aditya{
+     background-color:blue;
+     border-radius: 30px;
+     border-width: 25px;
+     border-color: rgb(255, 255, 255);
+      border-style: double;
+      line-height: 50px;
+    }
+
+#teen{
+     background-color:blue;
+     border-radius: 30px;
+     border-width: 25px;
+     border-color: rgb(255, 255, 255);
+     border-style: double;
+   }
+   a{
+    margin-left: 1150px;
+   }
